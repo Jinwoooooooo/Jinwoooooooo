@@ -42,8 +42,7 @@
 ## 📬 Contact
 
 📧 **Email**: jinwooya55@gmail.com  
-🔗 **GitHub**: [github.com/사용자ID](https://github.com/사용자ID)  
-*(링크는 사용자ID로 바꿔주세요)*
+🔗 **GitHub**: [github.com/jinwoooooooo](https://github.com/jinwoooooooo)  
 
 ---
 
