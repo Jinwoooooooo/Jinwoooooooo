@@ -40,6 +40,7 @@
 
 ### 1. 🎬 영화관 티켓 판매 키오스크  
 간단한 키오스크 형태의 영화관 예매 시스템  
+[🔗 GitHub Repository](https://github.com/Jinwoooooooo/2023-2-Final-Assignment)  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -51,6 +52,7 @@
 
 ### 2. 💻 전자기기 판매 사이트 - INergy  
 전자기기 판매를 위한 웹 쇼핑몰  
+[🔗 GitHub Repository](https://github.com/Jinwoooooooo/2024-1-Final-Assignment)  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -63,6 +65,7 @@
 
 ### 3. 🛒 식료품 판매 사이트 - 팜스토리  
 농산물과 식료품을 판매하는 웹사이트  
+[🔗 GitHub Repository](https://github.com/Jinwoooooooo/GCA_JSP_TeamProject)  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -75,6 +78,7 @@
 
 ### 4. 🎓 그린대학교 사이트 - 그린대  
 대학 소개 및 입시 정보 제공 웹사이트  
+[🔗 GitHub Repository](https://github.com/Jinwoooooooo/GreenUniversity)  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -88,6 +92,7 @@
 
 ### 5. 🛍️ 온라인 쇼핑몰 사이트 - 롯데ON  
 대규모 온라인 쇼핑몰 클론 프로젝트  
+[🔗 GitHub Repository](https://github.com/Jinwoooooooo/LotteON)  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -103,11 +108,11 @@
 
 ### 6. 💬 사내 커뮤니티 앱 - LinkON (진행 중)  
 사내 커뮤니케이션 및 협업을 위한 커뮤니티 플랫폼  
+[🔗 GitHub Repository](https://github.com/greenlotte6/lotte2-community-app-project-team2)  
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
