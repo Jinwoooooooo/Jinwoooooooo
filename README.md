@@ -1,126 +1,53 @@
-## 👋 안녕하세요! 프론트엔드 & 백엔드 개발자 정진우입니다.
+# 👋 안녕하세요! 프론트엔드 & 백엔드 개발자 정진우입니다.
 
-안녕하세요! 프론트엔드와 백엔드 모두 좋아하는 초보 웹 개발자입니다.
+풀스택 개발자로서 사용자 경험을 중시하며, 백엔드부터 프론트엔드까지 아우르는 다양한 프로젝트를 경험했습니다.  
+신뢰성 있는 백엔드와 직관적인 프론트엔드를 함께 고민하며 개발합니다.
 
 ---
 
 ## 💻 Tech Stack
 
-<!-- skill-icons 세밀 제어 버전 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/java.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/springboot.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/html5.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/css3.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/javascript.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/jquery.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/react.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/aws.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/mysql.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/docker.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/redis.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/linux.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/git.svg" height="40"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" height="40" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" alt="Linux"/>
 </p>
 
 ---
 
-## 📌 Projects
+## 📁 Projects
 
-### 1. 🎬 영화관 티켓 판매 키오스크  
-간단한 키오스크 형태의 영화관 예매 시스템  
-[🔗 GitHub Repository](https://github.com/Jinwoooooooo/2023-2-Final-Assignment)  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-</p>
-
----
-
-### 2. 💻 전자기기 판매 사이트 - INergy  
-전자기기 판매를 위한 웹 쇼핑몰  
-[🔗 GitHub Repository](https://github.com/Jinwoooooooo/2024-1-Final-Assignment)  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 3. 🛒 식료품 판매 사이트 - 팜스토리  
-농산물과 식료품을 판매하는 웹사이트  
-[🔗 GitHub Repository](https://github.com/Jinwoooooooo/GCA_JSP_TeamProject)  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 4. 🎓 그린대학교 사이트 - 그린대  
-대학 소개 및 입시 정보 제공 웹사이트  
-[🔗 GitHub Repository](https://github.com/Jinwoooooooo/GreenUniversity)  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-### 5. 🛍️ 온라인 쇼핑몰 사이트 - 롯데ON  
-대규모 온라인 쇼핑몰 클론 프로젝트  
-[🔗 GitHub Repository](https://github.com/Jinwoooooooo/LotteON)  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST API-000000?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-### 6. 💬 사내 커뮤니티 앱 - LinkON (진행 중)  
-사내 커뮤니케이션 및 협업을 위한 커뮤니티 플랫폼  
-[🔗 GitHub Repository](https://github.com/greenlotte6/lotte2-community-app-project-team2)  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST API-000000?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
-</p>
+| 프로젝트명 | 사용 기술 | 설명 |
+|------------|-----------|------|
+| 🎬 **영화관 키오스크** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="24"/> | 영화 예매 기능 중심의 키오스크 UI 구현 |
+| 🛒 **INergy (전자기기 판매몰)** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="24"/> | 상품 조회/결제/장바구니/관리자 기능 구현 |
+| 🥬 **팜스토리 (식료품 쇼핑몰)** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="24"/> | 신선 식품 주문 + 커뮤니티 기능 포함된 웹 플랫폼 |
+| 🏫 **그린대학교 - 그린대** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="24"/> | 학과 소개, 공지사항, 수강신청 등 학사 관리 시스템 |
+| 🛍 **롯데ON (온라인 쇼핑몰)** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="24" alt="Redis"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="24"/> | 회원가입, 상품 검색, 장바구니, 결제 등 풀스택 쇼핑몰 |
+| 🧑‍💼 **LinkON (사내 커뮤니티)** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="24"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="24"/> | 실시간 채팅과 파일 공유 가능한 사내 협업 플랫폼 *(진행 중)* |
 
 
 ---
 
-### 📫 Contact
+## 📬 Contact
 
-📧 Email: jinwooya55@gmail.com  
-🔗 GitHub: [github.com/jinwoooooooo](https://github.com/jinwoooooooo)
+📧 **Email**: jinwooya55@gmail.com  
+🔗 **GitHub**: [github.com/사용자ID](https://github.com/사용자ID)  
+*(링크는 사용자ID로 바꿔주세요)*
 
 ---
 
-감사합니다! 🙌
+
 
 
 <p align="center">
