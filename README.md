@@ -36,25 +36,85 @@
 
 ---
 
-### 📌 Projects
+## 📌 Projects
 
-1. 🎬 **영화관 티켓 판매 키오스크**  
-   - `HTML`, `CSS`, `JavaScript`, `jQuery`
+### 1. 🎬 영화관 티켓 판매 키오스크  
+간단한 키오스크 형태의 영화관 예매 시스템  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+</p>
 
-2. 💻 **전자기기 판매 사이트 - INergy**  
-   - `HTML`, `CSS`, `JavaScript`, `JSP`, `MySQL`
+---
 
-3. 🛒 **식료품 판매 사이트 - 팜스토리**  
-   - `HTML`, `CSS`, `JavaScript`, `JSP`, `MySQL`
+### 2. 💻 전자기기 판매 사이트 - INergy  
+전자기기 판매를 위한 웹 쇼핑몰  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
-4. 🎓 **그린대학교 사이트 - 그린대**  
-   - `HTML`, `CSS`, `JavaScript`, `Spring Boot`, `MySQL`, `AWS`
+---
 
-5. 🛍️ **온라인 쇼핑몰 사이트 - 롯데ON**  
-   - `HTML`, `CSS`, `JavaScript`, `Spring Boot`, `MySQL`, `REST API`, `Redis`, `AWS`
+### 3. 🛒 식료품 판매 사이트 - 팜스토리  
+농산물과 식료품을 판매하는 웹사이트  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
-6. 💬 **사내 커뮤니티 앱 - LinkON** (진행 중)  
-   - `React.js`, `CSS`, `JavaScript`, `Spring Boot`, `MySQL`, `AWS`, `REST API`, `Socket`
+---
+
+### 4. 🎓 그린대학교 사이트 - 그린대  
+대학 소개 및 입시 정보 제공 웹사이트  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+### 5. 🛍️ 온라인 쇼핑몰 사이트 - 롯데ON  
+대규모 온라인 쇼핑몰 클론 프로젝트  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-000000?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+### 6. 💬 사내 커뮤니티 앱 - LinkON (진행 중)  
+사내 커뮤니케이션 및 협업을 위한 커뮤니티 플랫폼  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-000000?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
+</p>
+
 
 ---
 
