@@ -44,11 +44,3 @@
 📧 **Email**: jinwooya55@gmail.com  
 🔗 **GitHub**: [github.com/jinwoooooooo](https://github.com/jinwoooooooo)  
 
----
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinwoooooooo&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
